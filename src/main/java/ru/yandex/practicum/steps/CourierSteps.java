@@ -2,7 +2,6 @@ package ru.yandex.practicum.steps;
 
 import io.qameta.allure.Step;
 import io.restassured.response.ValidatableResponse;
-import ru.yandex.practicum.models.Courier;
 import ru.yandex.practicum.models.CourierCreatingDTO;
 import ru.yandex.practicum.models.CourierLoginDTO;
 
